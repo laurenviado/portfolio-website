@@ -32,7 +32,7 @@
 - skills are displayed as four columns (one row) on large-sized screens, two columns (two rows) on medium-sized screens, and a single column (four rows) on smaller screens.
 
 # Contact Section
-- Should contains a centered heading.
+- contains a centered heading.
 - contains three or more social icons.
 - icons are displayed as three columns on medium screen sizes and above and collapse into rows at small screen sizes.  
 - icons change color on mouse hover.
