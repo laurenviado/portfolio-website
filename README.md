@@ -1,7 +1,7 @@
 
 # Project Description
-  This personal project was the capstone to an HTML & CSS course that I took, therefore it does not 
-  include any JavaScript functionality. The goal of this project was to take what I had learned about
+  This personal project was the capstone to an HTML & CSS course that I took, I have since added 
+  funtionality with JavaScript. The goal of this project was to take what I had learned about
   HTML, CSS, and Bootstrap amd create something that not only shows off my technical skills, but 
   also my personal values and goals. 
 
@@ -33,7 +33,7 @@
 
 # Contact Section
 - contains a centered heading.
-- contains three or more social icons.
+- contains three functional social icons.
 - icons are displayed as three columns on medium screen sizes and above and collapse into rows at small screen sizes.  
 - icons change color on mouse hover.
 
